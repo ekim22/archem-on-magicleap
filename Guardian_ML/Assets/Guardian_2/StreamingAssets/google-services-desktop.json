@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "668922976260",
+    "firebase_url": "https://molecules-and-machine-learning.firebaseio.com",
+    "project_id": "molecules-and-machine-learning",
+    "storage_bucket": "molecules-and-machine-learning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668922976260:android:f52fc309ad52d596",
+        "android_client_info": {
+          "package_name": "edu.ggc.lutz.moleculeviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668922976260-49tu5nmcbpl39da6gmbv1e1hr33cljc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_PDozpgL9Rzkmt8Qeu5hzRs0vNjcDjoA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
